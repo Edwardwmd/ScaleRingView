@@ -6,10 +6,10 @@ import android.util.TypedValue;
 import java.text.DecimalFormat;
 
 /**
- * 时间：2017/07/28/22：03
- * 作者：吴明德
+ * 时间：2016/07/28/22：07
+ * 作者：Wumingde
  * 邮箱：1732141816@qq.com
- * 作用：xxxx
+ * 作用：工具类
  * 声明：版权归作者所有
  */
 

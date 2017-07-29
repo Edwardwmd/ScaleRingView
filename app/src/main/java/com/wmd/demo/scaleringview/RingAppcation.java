@@ -6,10 +6,10 @@ import android.content.Context;
 import com.zhy.autolayout.config.AutoLayoutConifg;
 
 /**
- * 时间：2017/07/28/22：07
- * 作者：吴明德
+ * 时间：2016/07/28/22：07
+ * 作者：Wumingde
  * 邮箱：1732141816@qq.com
- * 作用：xxxx
+ * 作用：ScaleRingView
  * 声明：版权归作者所有
  */
 
