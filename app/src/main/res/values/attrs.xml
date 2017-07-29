@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScaleRingView">
+        <attr name="radiation_textsize" format="dimension" />
+        <attr name="unit_textsize" format="dimension" />
+        <attr name="outside_textsize" format="dimension" />
+        <attr name="bigDialRadius" format="dimension" />
+        <attr name="dialRadius" format="dimension" />
+        <attr name="cirRadius" format="dimension" />
+    </declare-styleable>
+</resources>
